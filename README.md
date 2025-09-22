@@ -18,16 +18,6 @@ This repository contains a script to bulk edit the gear associated with your Str
    git clone https://github.com/konaraddi/strava-scripts.git
    cd strava-scripts
    ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Create a `.env` file in the root directory with the following content:
-   ```env
-   STRAVA_CLIENT_ID=your_client_id
-   STRAVA_CLIENT_SECRET=your_client_secret
-   STRAVA_REDIRECT_URI=http://localhost:3000
-   ```
 
 ## Usage
 1. Run the script:
